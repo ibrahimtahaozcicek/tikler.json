@@ -1,16 +1,18 @@
 {
   "licenses": [
     {
-      "username": "musteri1",
-      "password": "sifre123",
-      "ip": "SUNUCU_IP_ADRESI",
-      "active": true
+      "username": "deneme2",
+      "password": "123",
+      "ip": "192.168.1.148",
+      "active": true,
+      "ip_check": false
     },
     {
       "username": "deneme",
       "password": "123",
       "ip": "192.168.1.148",
-      "active": true
+      "active": true,
+      "ip_check": false
     }
   ]
 }
