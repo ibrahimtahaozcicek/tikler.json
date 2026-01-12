@@ -5,7 +5,7 @@
       "password": "123",
       "ip": "192.168.1.148",
       "active": true,
-      "ip_check": false
+      "ip_check": true
     },
     {
       "username": "deneme1",
