@@ -12,7 +12,7 @@
       "password": "1231",
       "ip": "192.168.1.111",
       "active": true,
-      "ip_check": false
+      "ip_check": true
     }
   ]
 }
