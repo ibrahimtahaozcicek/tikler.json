@@ -1,11 +1,11 @@
 {
   "licenses": [
     {
-      "username": "deneme4",
-      "password": "123",
+      "username": "demo",
+      "password": "demo",
       "ip": "192.168.1.148",
       "active": true,
-      "ip_check": true
+      "ip_check": false
     },
     {
       "username": "deneme1",
