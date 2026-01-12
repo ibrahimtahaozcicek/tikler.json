@@ -1,1 +1,16 @@
-["kullaniciadi:sifre:ipadresi","kullaniciadi2:sifre2:ipadresi2"]
+{
+  "licenses": [
+    {
+      "username": "musteri1",
+      "password": "sifre123",
+      "ip": "SUNUCU_IP_ADRESI",
+      "active": true
+    },
+    {
+      "username": "deneme",
+      "password": "123",
+      "ip": "127.0.0.1",
+      "active": true
+    }
+  ]
+}
