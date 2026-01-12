@@ -9,7 +9,7 @@
     {
       "username": "deneme",
       "password": "123",
-      "ip": "127.0.0.1",
+      "ip": "192.168.1.148",
       "active": true
     }
   ]
